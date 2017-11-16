@@ -1,0 +1,4 @@
+dstat
+tmux
+w3m
+wget
